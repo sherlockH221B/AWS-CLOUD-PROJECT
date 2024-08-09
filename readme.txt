@@ -16,3 +16,5 @@ Date 07-08-2024 + Video 01 to 10
 07 Create account on RollBar https://app.rollbar.com/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+09 Video on the 
